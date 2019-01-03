@@ -10,7 +10,10 @@ Accumulative Value =  investmentAmount * (1 + MonthlyInterestRate) NumberofYears
  
 For example, if you enter amount 1000, annual interest rate 3.25%, and number of years 1, the future investment value is 1032.98. 
  
-The function should have three parameters: investmentAmount, monthlyInterestRate, years. 
+The function should have three parameters: 
+*investmentAmount 
+*monthlyInterestRate 
+*years 
  
 Write a test program that prompts the user to enter the investment amount (e.g., 1000) and the interest rate (e.g., 9%), and print a table that displays the future value for the years from 1 to 30, as shown below: 
  
