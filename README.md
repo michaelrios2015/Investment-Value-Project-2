@@ -18,10 +18,10 @@ The amount invested: 1000 Annual interest rate: 9%
  
 Years   Future value <br>
 
-1   &nbsp; &nbsp;        1093.8 
-2    `` &nbsp; &nbsp;``      1196.41 
-3     `` &nbsp; &nbsp;``      .. 
-30    `` &nbsp; &nbsp;``     14730.57 
+1   &nbsp; &nbsp; &nbsp; &nbsp;        1093.8 
+2    &nbsp; &nbsp; &nbsp; &nbsp;      1196.41 
+3     &nbsp; &nbsp;&nbsp; &nbsp;      .. 
+30    &nbsp; &nbsp;&nbsp; &nbsp;     14730.57 
  
  
 Of course, you need to use a loop to calculate and print the values 30 times. 
