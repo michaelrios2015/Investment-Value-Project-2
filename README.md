@@ -16,12 +16,12 @@ Write a test program that prompts the user to enter the investment amount (e.g.,
  
 The amount invested: 1000 Annual interest rate: 9% 
  
-Years   Future value <br>
+Years  &nbsp; &nbsp; &nbsp; &nbsp;  Future value <br>
 
-1   &nbsp; &nbsp; &nbsp; &nbsp;        1093.8 
-2    &nbsp; &nbsp; &nbsp; &nbsp;      1196.41 
-3     &nbsp; &nbsp;&nbsp; &nbsp;      .. 
-30    &nbsp; &nbsp;&nbsp; &nbsp;     14730.57 
+1   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;         1093.8 <br>
+2    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       1196.41 <br>
+3     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      ..       <br>
+30    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   14730.57  <br>
  
  
 Of course, you need to use a loop to calculate and print the values 30 times. 
@@ -30,7 +30,7 @@ Submit your program along with the output
  
 Remarks: 
  
-- Your program should at least consist of two functions, the main function and a function that calculates the balance 
+Your program should at least consist of two functions, the main function and a function that calculates the balance 
  
  
 Happy Investing! 
