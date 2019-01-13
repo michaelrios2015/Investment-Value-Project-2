@@ -1,12 +1,12 @@
 # Investment-Value-Project-2
 
-This is the Assignment the project was created for 
+This is the Assignment the project was created for: 
 
- COSC 501/500   Project 2        
+**COSC 501 at Towson University**
  
-Write a function that computes future investment value at a given  interest rate for a specified number of years. The future investment is determined using the following formula: 
+Write a function that computes future investment value at a given interest rate for a specified number of years. The future investment is determined using the following formula: 
  
-Accumulative Value =  investmentAmount * (1 + MonthlyInterestRate) NumberofYears*12 
+**Accumulative Value =  investmentAmount * (1 + MonthlyInterestRate) NumberofYears*12** 
  
 For example, if you enter amount 1000, annual interest rate 3.25%, and number of years 1, the future investment value is 1032.98. 
  
@@ -34,7 +34,6 @@ Submit your program along with the output
 Remarks: 
  
 Your program should at least consist of two functions, the main function and a function that calculates the balance 
- 
- 
+  
 Happy Investing! 
 
